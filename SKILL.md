@@ -92,7 +92,3 @@ yt-dlp --cookies-from-browser chrome -x --audio-format mp3 \
 ```
 
 If the video has no audio track, yt-dlp will report an error. In this case, inform the user that the tweet video has no audio to transcribe.
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
