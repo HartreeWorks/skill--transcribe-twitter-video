@@ -1,2 +1,5 @@
 audio/
 transcripts/
+
+# Private local data (not published)
+data/
